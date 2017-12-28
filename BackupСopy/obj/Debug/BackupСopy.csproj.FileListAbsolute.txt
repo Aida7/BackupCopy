@@ -1,0 +1,7 @@
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\bin\Debug\BackupСopy.exe.config
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\bin\Debug\BackupСopy.exe
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\bin\Debug\BackupСopy.pdb
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\obj\Debug\BackupСopy.csprojResolveAssemblyReference.cache
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\obj\Debug\BackupСopy.csproj.CoreCompileInputs.cache
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\obj\Debug\BackupСopy.exe
+C:\Users\Админ\source\repos\BackupСopy\BackupСopy\obj\Debug\BackupСopy.pdb
